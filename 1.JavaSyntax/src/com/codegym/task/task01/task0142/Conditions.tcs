@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task01.task0142"
+
+Amigo is very smart
+
+
+Write a program that displays: "Amigo is very smart".
+Example output:
+Amigo is very smart
+
+
+Requirements:
+1.	The program should output text.
+2.	The text should begin with &quot;Amigo&quot;.
+3.	The text should end with &quot;smart&quot;.
+4.	The text should consist of 19 characters, including spaces.
+5.	The displayed text must match the task conditions.
+
+

@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task03.task0307"
+
+Hello, StarCraft!
+
+
+Create 5 Zerg units, 3 Protoss units and 4 Terran units.
+Give them all unique names.
+
+
+Requirements:
+1.	Don&#39;t change the Zerg, Protoss, and Terran classes.
+2.	Create 5 Zerg objects and name each of them.
+3.	Create 3 Protoss objects and name each of them.
+4.	Create 4 Terran objects and name each of them.
+
+
