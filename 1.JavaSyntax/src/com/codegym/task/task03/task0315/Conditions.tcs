@@ -1,0 +1,25 @@
+taskKey="com.codegym.task.task03.task0315"
+
+Roy G. Biv…
+
+
+Create 7 objects to display the 7 colors of the rainbow on the screen.
+Example output:
+Red
+Orange
+Yellow
+Green
+Blue
+Indigo
+Violet
+Each object displays a specific color when it is created.
+
+
+Requirements:
+1.	The program should output text.
+2.	You need to create 7 different objects responsible for the colors.
+3.	The order in which the objects are created must correspond to the order of the colors in the rainbow.
+4.	Don&#39;t change the classes responsible for the colors.
+5.	The displayed text must match the task conditions.
+
+
