@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task04.task0404"
+
+Cat register
+
+
+Write code in the addNewCat method to increase the number of cats by 1 each time it is called.
+The variable catCount corresponds to the number of cats.
+
+
+Requirements:
+1.	The Cat class must have only one catCount variable.
+2.	The variable catCount must be a static int, have a private access modifier, and be initialized to zero.
+3.	The Cat class must have two methods: addNewCat and main.
+4.	The Cat class&#39;s addNewCat method should increase the number of cats by 1.
+
+
