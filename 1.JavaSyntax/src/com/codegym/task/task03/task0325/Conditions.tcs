@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task03.task0325"
+
+Financial expectations
+
+
+Use the keyboard to enter the number n.
+Display the phrase "I will earn $n per hour" on the screen.
+For example:
+I will earn $100 per hour
+
+
+Requirements:
+1.	The program should output text.
+2.	The program must read data from the keyboard.
+3.	The displayed text must contain the entered number n.
+4.	The displayed text must fully match the task conditions.
+
+
