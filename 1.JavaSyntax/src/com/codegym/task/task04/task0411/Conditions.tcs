@@ -1,0 +1,21 @@
+taskKey="com.codegym.task.task04.task0411"
+
+Seasons on Terra
+
+
+Write the checkSeason method. Based on a number representing a month, the method should determine and display the season (winter, spring, summer, autumn).
+Example for number 2:
+winter
+Example for number 5:
+spring
+Hint: the numbers 12, 1, and 2 are winter months; 3, 4, and 5 are spring, etc.
+
+
+Requirements:
+1.	The program should display text on the screen.
+2.	The main method should not call System.out.println or System.out.print.
+3.	The main method must call the checkSeason method.
+4.	The checkSeason method must be static void, and have only one int parameter.
+5.	The checkSeason method should display text on the screen in accordance with the task conditions.
+
+
