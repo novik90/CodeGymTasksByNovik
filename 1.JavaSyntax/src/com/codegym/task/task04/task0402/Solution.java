@@ -1,6 +1,6 @@
 package com.codegym.task.task04.task0402;
 
-/*
+/* 
 Price of apples
 
 */
