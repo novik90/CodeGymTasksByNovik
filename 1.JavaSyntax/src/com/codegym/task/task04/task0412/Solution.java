@@ -18,7 +18,7 @@ public class Solution {
         if (num > 0) {
             result = num * 2;
         } else if (num < 0) {
-            result = num;
+            result = num + 1;
         } else {
             result = 0;
         }
