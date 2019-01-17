@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task03.task0317"
+
+The way of the Samurai
+
+
+Display the following: 日本語
+
+
+Requirements:
+1.	The program should output text.
+2.	The The text should begin with &quot;日&quot;.
+3.	The text should end with &quot;語&quot;.
+4.	The text should consist of 3 symbols.
+5.	The displayed text must match the task conditions.
+
+
