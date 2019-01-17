@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task04.task0402"
+
+Price of apples
+
+
+Calculate the total cost of apples.
+The total cost of apples corresponds to public static int applePrice.
+
+
+Requirements:
+1.	The program should display text on the screen.
+2.	The Apple class&#39;s addPrice method should not display text on the screen.
+3.	The Apple class&#39;s applePrice variable must be a static int initialized to zero.
+4.	The main method should call the addPrice method only twice.
+5.	The Apple class&#39;s addPrice method should increase the cost of apples by the passed-in value.
+
+
