@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task04.task0421"
+
+Jen or Jen?
+
+
+Use the keyboard to enter two names. If the names are identical, display "The names are identical".
+If the names are different, but they are the same length, display "The names are the same length".
+If the names and name lengths are different, don't display anything.
+
+
+Requirements:
+1.	The program should read two lines from the keyboard.
+2.	The program should contain System.out.println() or System.out.print().
+3.	If the names are identical, display &quot;The names are identical&quot;
+4.	If the names are different, but they are the same length, display &quot;The names are the same length&quot;
+5.	If the names and name lengths are different, don&#39;t display anything.
+
+
