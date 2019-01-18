@@ -20,7 +20,7 @@ public class Solution {
             System.out.println(3);
         else if (num1 == num3)
             System.out.println(2);
-        else
+        else if (num2 == num3)
             System.out.println(1);
     }
 }
