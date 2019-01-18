@@ -21,13 +21,11 @@ public class Solution {
         else
             result.append("odd ");
 
-        if (num > 99)
-            result.append("three-digit number");
-        else if (num > 9)
-            result.append("two-digit number");
-        else
-            result.append("single-digit number");
-
-        System.out.println(result.toString());
+        if (num > 99 && num < 1000)
+            System.out.println(result.append("three-digit number"));
+        else if (num > 9 && num < 100)
+            System.out.println(result.append("two-digit number"));
+        else if (num > 0 && num < 10)
+            System.out.println(result.append("single-digit number"));
     }
 }
