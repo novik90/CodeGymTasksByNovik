@@ -1,0 +1,32 @@
+taskKey="com.codegym.task.task04.task0427"
+
+Describing numbers
+
+
+Enter an integer from the keyboard in the range 1 - 999. Display a string description as follows:
+"even single-digit number" - if the number is even and has one digit,
+"odd single-digit number" - if the number is odd and has one digit,
+"even two-digit number" - if the number is even and has two digits,
+"odd two-digit number" - if the number is odd and has two digits,
+"even three-digit number" - if the number is even and has three digits,
+"odd three-digit number" - if the number is odd and has three digits.
+If the entered number does not fall in the range 1 - 999, don't display anything.
+Example for 100:
+even three-digit number
+Example for 51:
+odd two-digit number
+
+
+Requirements:
+1.	The program should read one number from the keyboard.
+2.	The program should use System.out.println() or System.out.print()..
+3.	The program should display a string description of the number and nothing else.
+4.	If the number is even and has one digit, display &quot;even single-digit number&quot;.
+5.	If the number is odd and has one digit, display &quot;odd single-digit number&quot;.
+6.	If the number is even and has two digits, display &quot;even two-digit number&quot;.
+7.	If the number is odd and has two digits, display &quot;odd two-digit number&quot;.
+8.	If the number is even and has three digits, display &quot;even three-digit number&quot;.
+9.	If the number is odd and has three digits, display &quot;odd three-digit number&quot;.
+10.	If the entered number doesn&#39;t fall in the range 1 - 999, don&#39;t display anything
+
+
