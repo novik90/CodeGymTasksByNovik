@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task04.task0422"
+
+18+
+
+
+Use the keyboard to enter the name and age. If the age is less than 18, display "Grow up a little more".
+
+
+Requirements:
+1.	The program should read data from the keyboard twice.
+2.	The program should use System.out.println() or System.out.print().
+3.	If the age is less than 18, display &quot;Grow up a little more&quot; and nothing else.
+4.	If the age is greater than or equal to 18, don&#39;t display anything.
+
+
