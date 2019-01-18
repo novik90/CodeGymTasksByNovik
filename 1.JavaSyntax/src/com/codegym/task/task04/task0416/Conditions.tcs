@@ -1,0 +1,29 @@
+taskKey="com.codegym.task.task04.task0416"
+
+Crossing the road blindly
+
+
+The pedestrian traffic light is programmed as follows: at the beginning of each hour, the green signal is on for three minutes,
+then the signal is yellow for one minute, and then it is red for one minute. Then the light is green again for three minutes, etc.
+Use the keyboard to enter a real number t that represents the number of minutes that have elapsed since the beginning of the hour.
+Determine what color the traffic light is at the specified time.
+Display the result as follows:
+"green" if the light is green, "yellow" if the light is yellow, and "red" if the light is red.
+Example for 2.5:
+green
+Example for 3:
+yellow
+Example for 4:
+red
+Example for 5:
+green
+
+
+Requirements:
+1.	The program should read a real number from the keyboard.
+2.	The program should display text on the screen.
+3.	If the light is green, display: &quot;green&quot;
+4.	If the light is yellow, display: &quot;yellow&quot;
+5.	If the light is red, display: &quot;red&quot;
+
+
