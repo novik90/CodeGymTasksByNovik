@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task05.task0515"
+
+Initializing objects
+
+
+Study the Person class carefully.
+Correct the class so that only one initialize method initializes all of the Person class's instance variables.
+
+
+Requirements:
+1.	The program must not read data from the keyboard.
+2.	The Person class must have 5 variables.
+3.	The class must have one initialize method.
+4.	The initialize method must have five parameters.
+
+
