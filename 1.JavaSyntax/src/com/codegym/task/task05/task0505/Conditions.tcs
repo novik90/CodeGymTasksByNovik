@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task05.task0505"
+
+Feline carnage
+
+
+Use the Cat class to create three cats.
+Hold three pairwise battles between the cats.
+You don't need to create the Cat class. For combat, use the boolean fight(Cat anotherCat) method.
+Display the result of each battle on the screen on a new line.
+
+
+Requirements:
+1.	The program must not read data from the keyboard.
+2.	You need to create three Cat objects.
+3.	You need to conduct three fights.
+4.	The program should display the result of each battle on a new line.
+
+
