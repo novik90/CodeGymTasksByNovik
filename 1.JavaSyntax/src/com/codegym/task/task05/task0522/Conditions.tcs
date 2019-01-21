@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task05.task0522"
+
+Max constructors
+
+
+Study the Circle class. Write the maximum number of possible constructors with different arguments.
+Hint: Don't forget about the default constructor.
+
+
+Requirements:
+1.	The class must have at least three variables.
+2.	The class must have a default constructor.
+3.	The class must have at least one constructor.
+4.	The class must have at least two constructors.
+5.	The class must have at least three constructors.
+6.	The class must have at least four constructors.
+
+
