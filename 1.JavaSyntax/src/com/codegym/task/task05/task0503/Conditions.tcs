@@ -1,0 +1,19 @@
+taskKey="com.codegym.task.task05.task0503"
+
+Getters and setters for the Dog class
+
+
+Create the Dog class. The dog should have a String name and int age.
+Create getters and setters for all the variables of the Dog class.
+
+
+Requirements:
+1.	The program must not read data from the keyboard.
+2.	The Dog class must have a String variable name.
+3.	The Dog class must have an int variable age.
+4.	The class must have a setter for the variable name.
+5.	The class must have a getter for the variable name.
+6.	The class must have a setter for the variable age.
+7.	The class must have a getter for the variable age.
+
+
