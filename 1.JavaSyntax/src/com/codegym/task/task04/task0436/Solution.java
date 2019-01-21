@@ -16,7 +16,7 @@ public class Solution {
         int m = scanner.nextInt();
         int n = scanner.nextInt();
 
-        int rectangle = m * n;
+        int rectangle = 8;
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
