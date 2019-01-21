@@ -16,15 +16,22 @@ public class Solution {
         int num1 = scanner.nextInt();
         int num2 = scanner.nextInt();
         int num3 = scanner.nextInt();
-
-
-
+        positiveNumCount(num1, num2, num3);
     }
 
-    public static int positiveNum(int count){
+    public static void positiveNumCount(int a, int b, int c){
+        int count = 0;
 
-        if (count > 0)
-            count += 1;
-        return count;
+        if (a < 1 && b < 1 && c < 1)
+            System.out.print("");
+        else {
+            if (a > 0)
+                count += 1;
+            if (b > 0)
+                count += 1;
+            if (c > 0)
+                count += 1;
+            System.out.println(count);
+        }
     }
 }
