@@ -1,0 +1,19 @@
+taskKey="com.codegym.task.task05.task0521"
+
+Calling a constructor from a constructor
+
+
+Figure out what the program does.
+Correct the constructor with two parameters so that it calls another constructor with a radius of 10. Think about which constructor you need to call.
+Hint: carefully study the implementation of the default constructor.
+
+
+Requirements:
+1.	The class must have 3 constructors.
+2.	The constructor with two parameters must initialize the variables x and y to the passed values.
+3.	The constructor with two parameters must initialize the variable radius to a value of 10.
+4.	The constructor with two parameters must call another constructor, passing the correct arguments.
+5.	Don&#39;t change the main method.
+6.	Don&#39;t change the default constructor.
+
+
