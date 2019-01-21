@@ -23,7 +23,7 @@ public class Solution {
         int count = 0;
 
         if (a < 1 && b < 1 && c < 1)
-            System.out.print("");
+            System.out.print(0);
         else {
             if (a > 0)
                 count += 1;
