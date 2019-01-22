@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task06.task0616"
+
+Minimum number of statics
+
+
+Place the minimum number of static modifiers necessary to make the code start working and the program complete successfully.
+
+
+Requirements:
+1.	Don&#39;t change the method implementations or access modifiers.
+2.	Add static modifiers in the required locations.
+3.	The program must have only 4 static modifiers.
+4.	The program should display text on the screen.
+
+
