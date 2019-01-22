@@ -19,6 +19,5 @@ public class Solution {
             return "DESCRIPTION";
         }
     }
-    //test comment
     //write your code here
 }
