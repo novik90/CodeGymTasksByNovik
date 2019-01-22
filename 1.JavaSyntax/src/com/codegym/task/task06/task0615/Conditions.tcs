@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task06.task0615"
+
+Feng Shui and statics
+
+
+Move one static modifier to make the example compile.
+
+
+Requirements:
+1.	Don&#39;t change the main method.
+2.	Add the static modifier in the required location.
+3.	Remove the extra static modifier.
+4.	The program must have only 2 static modifiers.
+
+
