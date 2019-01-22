@@ -7,7 +7,7 @@ Class counter
 
 public class Cat {
 
-    static int catCount;
+    static int catCount = 0;
 
     public Cat() {
         catCount++;
