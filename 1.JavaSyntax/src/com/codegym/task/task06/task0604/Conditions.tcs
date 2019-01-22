@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task06.task0604"
+
+Cat counter
+
+
+In the Cat class constructor, i.e. public Cat(), increment the cat counter (the Cat class's static variable catCount) by 1. Decrement it by 1 in the finalize method.
+
+
+Requirements:
+1.	Add a constructor without parameters to the Cat class, i.e. public Cat().
+2.	The constructor must increment the value of the variable catCount by 1.
+3.	Add the finalize method to the Cat class.
+4.	The finalize method should not return anything (the return type is void).
+5.	The finalize method should reduce the variable catCount by 1.
+
+
