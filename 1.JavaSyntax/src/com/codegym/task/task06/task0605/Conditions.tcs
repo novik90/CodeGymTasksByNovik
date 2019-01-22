@@ -1,0 +1,24 @@
+taskKey="com.codegym.task.task06.task0605"
+
+Controlling body weight
+
+
+The program should read a weight entered by the user in kilograms and a height in meters. Then it should display a message about the user's body mass index.
+Implement a static method in the Body class. The method should calculate the body mass index and display the following message:
+"Underweight: BMI < 18.5" - if the body mass index is less than 18.5,
+"Normal: 18.5 <= BMI < 24.9" - if the body mass index is between 18.5 and 24.9,
+"Overweight: 25 <= BMI < 29.9" - if the body mass index is between 25 and 29.9,
+"Obese: BMI >= 30" - if the body mass index is 30 or more.
+Hint: Body mass index (BMI) = weight in kg / (height in meters * height in meters)
+Example output for 68.4 and 1.77:
+Normal: 18.5 <= BMI < 24.9
+
+
+Requirements:
+1.	The calculateBMI method should display text on the screen.
+2.	The calculateBMI method should display &quot;Underweight: BMI &lt; 18.5&quot; if the body mass index is less than 18.5.
+3.	The calculateBMI method should display &quot;Normal: 18.5 &lt;= BMI &lt; 24.9&quot; if the body mass index is between 18.5 and 24.9.
+4.	The calculateBMI method should display &quot;Overweight: 25 &lt;= BMI &lt; 29.9&quot; if the body mass index is between 25 and 29.9.
+5.	The calculateBMI method should display &quot;Obese: BMI &gt;= 30&quot; if the body mass index is 30 or more.
+
+
