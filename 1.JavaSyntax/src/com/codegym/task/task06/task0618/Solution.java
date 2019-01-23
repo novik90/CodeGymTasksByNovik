@@ -12,6 +12,7 @@ public class Solution {
 
     public static void main(String[] args) {
         //write your code here
-        System.out.println(KissMyShinyMetalRearActuator.shinyMetalRearActuator);
+        KissMyShinyMetalRearActuator kissMyShinyMetalRearActuator = new KissMyShinyMetalRearActuator();
+        System.out.println(kissMyShinyMetalRearActuator.toString());
     }
 }
