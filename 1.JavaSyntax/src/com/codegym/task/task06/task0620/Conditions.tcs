@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task06.task0620"
+
+Fixing the mistakes of youth
+
+
+Task: The program takes two numbers from the keyboard and displays the maximum using a phrase like "The max is 25".
+
+
+Requirements:
+1.	The program must read data from the keyboard.
+2.	The program should display the result on the screen.
+3.	The displayed text should start with &quot;The max is&quot;.
+4.	The displayed text should end with the maximum of the 2 entered numbers.
+
+
