@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task07.task0704"
+
+Flip the array
+
+
+1. Create an array of 10 numbers.
+2. Enter 10 numbers from the keyboard and write them to the array.
+3. Display the elements of the array in reverse order. Display each value on a new line.
+
+
+Requirements:
+1.	The program must create an array of 10 integers.
+2.	The program should read numbers for the array from the keyboard.
+3.	The program should display 10 values, each on a new line.
+4.	The array must be displayed in reverse order.
+
+
