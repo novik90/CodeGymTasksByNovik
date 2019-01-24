@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task07.task0701"
+
+Maximum in an array
+
+
+1. In the initializeArray() method:
+1.1. Create an array of 20 numbers
+1.2. Read 20 numbers from the console and put them into the array
+2. The max(int[] array) method must find the maximum of the array elements
+
+
+Requirements:
+1.	The initializeArray method must create an array of 20 integers.
+2.	The initializeArray method must read in 20 numbers and return them as an array.
+3.	The max method must return the maximum element in the passed array.
+4.	Don&#39;t change the main method.
+
+
