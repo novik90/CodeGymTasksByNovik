@@ -1,0 +1,22 @@
+taskKey="com.codegym.task.task07.task0707"
+
+What sort of list is that?
+
+
+1. Create a list of strings.
+2. Add 5 different strings to it.
+3. Display its size on the screen.
+4. Use a loop to display its contents, each value on a new line.
+
+Note:
+Add strings to the list only after the list is initialized.
+
+
+Requirements:
+1.	The program should not read anything from the keyboard.
+2.	Declare an ArrayList&lt;String&gt; variable and immediately initialize it.
+3.	The program should add any 5 strings to the list.
+4.	The program should display the size of the list on the screen.
+5.	The program should display the contents of the list, each value on a new line.
+
+
