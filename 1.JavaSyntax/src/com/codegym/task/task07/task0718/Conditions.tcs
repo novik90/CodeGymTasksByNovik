@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task07.task0718"
+
+Checking the order
+
+
+1. Read 10 words from the keyboard and add them to a list of strings.
+2. Determine whether the list is ordered by increasing string length.
+3. If it is not, then display the index of the first element that violates this order.
+
+
+Requirements:
+1.	Declare a string list variable and immediately initialize it.
+2.	Read 10 lines from the keyboard and add them to the list.
+3.	If the list is ordered by increasing string length, then you don&#39;t need to display anything.
+4.	If the list is not ordered by increasing string length, then display the index of the first element that violates this order.
+
+
