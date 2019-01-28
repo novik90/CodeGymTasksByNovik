@@ -1,0 +1,20 @@
+taskKey="com.codegym.task.task07.task0720"
+
+Shuffled just in time
+
+
+Use the keyboard to enter 2 numbers N and M.
+Enter N strings and put them in a list.
+Move the first M strings to the end of the list.
+Display the list, each value on a new line.
+
+Note: you must not create more than one list.
+
+
+Requirements:
+1.	Declare a string list variable and immediately initialize it.
+2.	Read numbers N and M from the keyboard. Read N strings and add them to the list.
+3.	Move the first M strings to the end of the list.
+4.	Display the list, each value on a new line.
+
+
