@@ -1,0 +1,19 @@
+taskKey="com.codegym.task.task07.task0722"
+
+The end
+
+
+Create a list of strings.
+Enter strings from the keyboard and add them to the list.
+Enter strings from the keyboard until the user enters "end". The string "end" is ignored.
+Display the strings on the screen, each on a new line.
+
+
+Requirements:
+1.	Declare a string list variable and immediately initialize it.
+2.	Read strings from the keyboard and add them to a list until the user enters &quot;end&quot;.
+3.	Do not add &quot;end&quot; to the list.
+4.	Display the list, each value on a new line.
+5.	Use a for loop.
+
+
