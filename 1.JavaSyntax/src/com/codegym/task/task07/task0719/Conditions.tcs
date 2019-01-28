@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task07.task0719"
+
+Display numbers in reverse order
+
+
+Enter 10 numbers from the keyboard and put them in a list.
+Display them in reverse order. Each element on a new line.
+Use only a for loop.
+
+
+Requirements:
+1.	Declare an integer list variable and immediately initialize it.
+2.	Read 10 integers from the keyboard and add them to the list.
+3.	Display the numbers in reverse order.
+4.	Use a for loop.
+
+
