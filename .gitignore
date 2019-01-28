@@ -9,7 +9,7 @@ target/
 *.iws
 *.info
 *.properties
-
+git
 /out/
 /CodeGymPlugin.properties
 /Instruction.png
