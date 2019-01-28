@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task07.task0721"
+
+Min and max in arrays
+
+
+Create an array of 20 numbers. Populate it with numbers from the keyboard. Find the maximum and minimum numbers in the array.
+Display the maximum and minimum numbers, separated by a space.
+
+
+Requirements:
+1.	Create an array of integers (int[]) with 20 elements.
+2.	Read 20 integers from the keyboard and add them to the array.
+3.	Find the maximum and minimum integers, and then display them separated by a space.
+4.	Use a for loop.
+
+
