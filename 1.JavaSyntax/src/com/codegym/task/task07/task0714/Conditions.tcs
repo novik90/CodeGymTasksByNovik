@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task07.task0714"
+
+Words in reverse
+
+
+Read 5 words from the keyboard and add them to a list of strings. Remove the 3rd item in the list, and then display the remaining items in reverse order.
+
+
+Requirements:
+1.	Declare a ArrayList&lt;String&gt; variable and immediately initialize it.
+2.	Read 5 lines from the keyboard and add them to the list.
+3.	Remove the third element of list.
+4.	Display the items on the screen, each on a new line.
+5.	The display order must be reversed.
+
+
