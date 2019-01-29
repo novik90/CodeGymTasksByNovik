@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task07.task0728"
+
+In decreasing order
+
+
+Task: Write a program that reads 20 numbers from the keyboard and displays them in decreasing order.
+
+
+Requirements:
+1.	The program should read 20 integers from the keyboard.
+2.	The program should display 20 numbers.
+3.	The Solution class must have a public static void sort(int[] array) method.
+4.	The main method should call the sort method.
+5.	The sort method should sort the passed array in decreasing order.
+
+
