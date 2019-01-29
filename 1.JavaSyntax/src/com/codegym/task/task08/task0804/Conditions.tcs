@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task08.task0804"
+
+Display a list of keys
+
+
+There is a HashMap<String, String>. 10 different strings have been added to it. Display a list of keys on the screen, each element on a new line.
+
+
+Requirements:
+1.	The program must create a HashMap variable with (String, String) elements. The variable must be initialized immediately.
+2.	The program should not read values from the keyboard.
+3.	The program should add 10 different strings to the collection in accordance with the conditions.
+4.	The printKeys() method should display the keys in the collection, each element on a new line.
+
+
