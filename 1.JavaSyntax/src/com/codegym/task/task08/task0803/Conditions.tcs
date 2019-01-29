@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task08.task0803"
+
+HashMap of cats
+
+
+There is a Cat class with a String name.
+Create a HashMap<String, Cat>.
+Add 10 cats to the collection. The cat's name should be used as the key.
+Display the result on the screen, each element on a new line.
+
+
+Requirements:
+1.	The program should not read values from the keyboard.
+2.	In the addCatsToMap() method, declare a HashMap variable with (String, Cat) pairs and immediately initialize it.
+3.	The addCatsToMap() method should add all cats in the String[] cats array to the collection in accordance with the task conditions.
+4.	The program should display the contents of the collection on the screen, each pair on a new line and with the key and value separated by a hyphen.
+
+
