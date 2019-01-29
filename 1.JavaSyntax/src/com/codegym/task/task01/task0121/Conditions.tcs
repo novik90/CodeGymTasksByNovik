@@ -1,0 +1,25 @@
+taskKey="com.codegym.task.task01.task0121"
+
+Contract
+
+
+Display the text of the new contract:
+My name is Amigo.
+
+I agree to wages of $5000/month in the first year.
+I agree to wages of $5500/month in the second year.
+I agree to wages of $7000/month in the third year.
+I agree to wages of $8000/month in the fourth year.
+I agree to wages of $10000/month in the fifth year.
+
+Kiss my shiny metal rear actuator!
+
+
+Requirements:
+1.	The program should output text.
+2.	The text should begin with &quot;My name is Amigo&quot;.
+3.	The text should end with a &quot;metal rear actuator!&quot;.
+4.	The text should consist of 9 lines (empty lines are also lines).
+5.	The displayed text must match the task conditions.
+
+

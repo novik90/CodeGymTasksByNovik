@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task01.task0137"
+
+Only 20 will do
+
+
+In the main method, place plus and minus signs correctly so that the variable result is equal to 20.
+Signs must be placed only in the line where the variable result is declared.
+Do not change the order of the variables in this line.
+Each variable must be preceded by either a plus or minus sign.
+
+
+Requirements:
+1.	Values ​​of variables: Do not change a, b, c, or d.
+2.	Each of the variables (a, b, c, and d) in the line where the variable result is declared must be preceded by either a plus or minus sign.
+3.	The program should display the number 20 on the screen.
+4.	The plus and minus signs must be placed correctly.
+
+

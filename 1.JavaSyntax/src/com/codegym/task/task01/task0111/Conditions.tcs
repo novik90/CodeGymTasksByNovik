@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task01.task0111"
+
+One variable is not enough
+
+
+Declare int variables a and b and String variable s.
+In the same line in which the variables are declared, immediately assign them any different values.
+
+
+Requirements:
+1.	Declare two int variables.
+2.	Declare one String variable.
+3.	The int variables must be named a and b.
+4.	The String variable must be named s.
+5.	The variables must be immediately assigned values.
+6.	Variables a and b must have different values.
+
+

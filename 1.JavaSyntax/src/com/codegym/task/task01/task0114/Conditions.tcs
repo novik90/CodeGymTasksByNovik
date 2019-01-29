@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task01.task0114"
+
+CodeGym. Learn once - use anywhere
+
+
+Write a program that displays: "CodeGym. Learn once - use anywhere" 10 times.
+
+
+Requirements:
+1.	The program should output text.
+2.	The text should begin with &quot;CodeGym&quot;.
+3.	The text should end with &quot;use anywhere&quot;.
+4.	The text should consist of 10 lines.
+5.	The displayed text must match the task conditions.
+
+

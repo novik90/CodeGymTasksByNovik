@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task01.task0123"
+
+We don't need any extra lines
+
+
+Comment out variables that are not used anywhere. The program must compile.
+
+
+Requirements:
+1.	Don&#39;t change the variable types.
+2.	Don&#39;t change the variable values.
+3.	Don&#39;t add new lines to the program, and don&#39;t delete existing lines.
+4.	You need to comment out the unused variables.
+5.	The program&#39;s output should not change.
+
+

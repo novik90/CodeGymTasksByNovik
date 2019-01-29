@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task01.task0116"
+
+Let's change the code
+
+
+Change the program so that the variable name has the value "Amigo".
+
+
+Requirements:
+1.	The variable name must be assigned a value immediately after it is declared.
+2.	Two variables must be declared.
+3.	The value of the variable text can&#39;t be changed.
+4.	You can&#39;t change the screen output command.
+5.	The program should display &quot;Hello, Amigo!&quot;.
+
+

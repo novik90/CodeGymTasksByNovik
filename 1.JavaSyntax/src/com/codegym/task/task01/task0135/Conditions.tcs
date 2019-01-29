@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task01.task0135"
+
+Two roads diverged in a yellow wood
+
+
+Display the variables whose values are names of fruit. Display each variable on a new line.
+
+
+Requirements:
+1.	The program should output text.
+2.	Don&#39;t change the lines that declare variables.
+3.	The displayed text should consist of 2 lines.
+4.	The program should display the variables whose values are the names of fruit.
+5.	The program should not display the variables whose values are not the names of fruit.
+
+

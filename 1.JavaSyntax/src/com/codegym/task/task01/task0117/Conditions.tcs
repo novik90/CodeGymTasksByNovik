@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task01.task0117"
+
+A few more corrections
+
+
+Change the program to display the following text: "Coding in Java". Use variables.
+
+
+Requirements:
+1.	Three variables must be declared.
+2.	All variables must be assigned a value immediately after they are declared.
+3.	You can&#39;t change the screen output command.
+4.	The program should display &quot;Coding in Java&quot;.
+
+

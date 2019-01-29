@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task01.task0110"
+
+A variable on our screen
+
+
+Declare a String variable called name.
+In the line where we declare the variable, immediately assign it some value.
+Display the variable "name" on the screen.
+
+
+Requirements:
+1.	In the main method, declare a String variable.
+2.	The variable must be called name.
+3.	The variable must be assigned a value immediately.
+4.	The program should display text on the screen.
+5.	The output text should be the value of the variable.
+
+

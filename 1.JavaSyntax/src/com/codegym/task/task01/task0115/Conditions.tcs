@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task01.task0115"
+
+Uh... Happy New Year!
+
+
+Remove comments from part of the code so that "Happy New Year" appears on the screen.
+
+
+Requirements:
+1.	The program should display text.
+2.	You need to uncomment some lines. Don&#39;t change anything else.
+3.	Don&#39;t add new lines to the program, and don&#39;t delete existing lines.
+4.	The displayed text must match the task conditions.
+
+

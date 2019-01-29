@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task01.task0140"
+
+Display the square of a number
+
+
+The variable number is given.
+Write a program that displays the square of this variable: (number * number).
+
+
+Requirements:
+1.	Don&#39;t change the variable number. You can only change its value.
+2.	The program should output text.
+3.	The displayed text must be a number.
+4.	The displayed text must be the square of the variable number.
+
+
