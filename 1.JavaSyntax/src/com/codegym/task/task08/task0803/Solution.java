@@ -1,7 +1,6 @@
 package com.codegym.task.task08.task0803;
 
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
 
 /* 
