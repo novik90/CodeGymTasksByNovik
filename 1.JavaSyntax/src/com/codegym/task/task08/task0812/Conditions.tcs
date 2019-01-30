@@ -1,0 +1,21 @@
+taskKey="com.codegym.task.task08.task0812"
+
+Longest sequence
+
+
+1. Create a list of numbers.
+2. Use the keyboard to add 10 numbers to the list.
+3. Display the length of the longest sequence of repeating numbers in the list.
+Example for the list 2, 4, 4, 4, 8, 8, 4, 12, 12, 14:
+3
+The value is 3, because the longest sequence of repeating numbers is three fours.
+
+
+Requirements:
+1.	The program must display a number on the screen.
+2.	The program should read values from the keyboard.
+3.	In the main method, declare an ArrayList variable with Integer elements and immediately initialize it.
+4.	The program should add 10 numbers to the collection in accordance with the conditions.
+5.	The program should display the length of the longest sequence of repeating numbers in the list.
+
+
