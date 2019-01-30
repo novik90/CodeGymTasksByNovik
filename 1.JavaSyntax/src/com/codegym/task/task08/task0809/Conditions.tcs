@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task08.task0809"
+
+Time for 10,000 insertions
+
+
+Measure how long it takes to perform 10,000 insertions on each list.
+The getInsertTimeInMs method must return its execution time in milliseconds.
+
+
+Requirements:
+1.	The program should display numbers on the screen.
+2.	The main method should call the getInsertTimeInMs method only twice.
+3.	The insert10000(List list) method must insert 10,000 items into the list.
+4.	The getInsertTimeInMs method should call the insert10000 method only once.
+5.	The getInsertTimeInMs method should return the time (in milliseconds) that it takes to perform 10,000 insertions on the list.
+
+

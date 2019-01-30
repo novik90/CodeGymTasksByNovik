@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task08.task0808"
+
+10 thousand deletions and insertions
+
+
+Using an ArrayList and LinkedList, perform 10,000 insertions, deletions, and get and set calls.
+
+
+Requirements:
+1.	The program should not display text on the screen.
+2.	The program should not read values from the keyboard.
+3.	The Solution class must contain only 5 methods.
+4.	The insert10000(List list) method must insert 10,000 items into the list.
+5.	The get10000(List list) method should call get 10,000 times on the list.
+6.	The set10000(List list) method should call set 10,000 times on the list.
+7.	The remove10000(List list) method must remove 10,000 items from the list.
+
+

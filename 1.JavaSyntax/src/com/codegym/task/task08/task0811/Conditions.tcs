@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task08.task0811"
+
+Method quartet
+
+
+Implement the 4 methods. Each of them should return the list that is best suited for performing these operations (i.e. the list that can most quickly perform a large number of operations). You don't need to measure anything.
+
+
+Requirements:
+1.	The program should not display text on the screen.
+2.	The Solution class must have only 5 methods.
+3.	The getListForGet method should return the list that is best suited for get operations.
+4.	The getListForSet method should return the list that is best suited for set operations.
+5.	The getListForAddOrInsert method should return the list that is best suited for adding or inserting elements.
+6.	The getListForRemove method should return the list that is best suited for deleting elements.
+
+
