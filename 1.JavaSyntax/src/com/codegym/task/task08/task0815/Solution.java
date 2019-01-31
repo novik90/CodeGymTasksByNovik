@@ -12,16 +12,16 @@ Census
 public class Solution {
     public static HashMap<String, String> createMap() {
         HashMap<String, String> map = new HashMap<>();
-        map.put("1 Novikov", "Ivan");
-        map.put("2 Novikov", "Evgeni");
-        map.put("3 Novikov", "Gennadi");
-        map.put("4 Simonov", "Konstantin");
-        map.put("5 Popov", "Ivan");
-        map.put("6 Polyakov", "Roman");
-        map.put("7 Popov", "Mihail");
-        map.put("8 Mamedov", "Ramin");
-        map.put("9 Novikov", "Roman");
-        map.put("10 Smorodin", "Kirill");
+        map.put("Novikov", "Ivan");
+        map.put("Novikov", "Evgeni");
+        map.put("Novikov", "Gennadi");
+        map.put("Simonov", "Konstantin");
+        map.put("Popov", "Ivan");
+        map.put("Polyakov", "Roman");
+        map.put("Popov", "Mihail");
+        map.put("Mamedov", "Ramin");
+        map.put("KEK", "Roman");
+        map.put("Smorodin", "Kirill");
         return map;
     }
 
