@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task08.task0816"
+
+Kind Emma and the summer holidays
+
+
+Create a Map<String, Date> and add ten entries that represent (last name, birth date) pairs.
+Remove from the map all people born in the summer.
+Hint: At CodeGym, summer lasts from June 1 to August 31.
+
+
+Requirements:
+1.	The program should not display text on the screen.
+2.	The program should not read values from the keyboard.
+3.	The createMap() method must create and return a HashMap that has (String, Date) elements and contains 10 entries.
+4.	The removeAllSummerPeople() method should remove from the map all people born in the summer.
+
+

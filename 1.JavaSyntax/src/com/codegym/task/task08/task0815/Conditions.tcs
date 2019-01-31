@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task08.task0815"
+
+Census
+
+
+Create a Map<String, String> and add ten entries that represent (last name, first name) pairs.
+Check how many people have the same first name or last name.
+
+
+Requirements:
+1.	The program should not display text on the screen.
+2.	The program should not read values from the keyboard.
+3.	The createMap() method must create and return a HashMap that has (String, String) elements and contains 10 entries that represent (last name, first name) pairs.
+4.	The getSameFirstNameCount() method must return the number of people that have the same first name.
+5.	The getSameLastNameCount() method must return the number of people that have the same last name.
+
+
