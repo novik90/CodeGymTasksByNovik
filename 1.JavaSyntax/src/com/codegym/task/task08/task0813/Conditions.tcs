@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task08.task0813"
+
+20 words that start with the letter "L"
+
+
+You need to create a Set<String> and add 20 words that start with the letter "L".
+
+
+Requirements:
+1.	Don&#39;t change the signature of the createSet() method.
+2.	The program should not display text on the screen.
+3.	The program should not read values from the keyboard.
+4.	The createSet() method must create and return a set (HashSet).
+5.	The set returned by the createSet() method must contain 20 words that start with the letter &quot;L&quot;.
+
+
