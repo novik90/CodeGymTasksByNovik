@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task02.task0211"
+
+The required number
+
+
+Comment out as many lines as possible to display the number 19
+
+
+Requirements:
+1.	The program should display the number 19.
+2.	Don&#39;t change the lines that declare variables.
+3.	Don&#39;t change the line responsible for screen output.
+4.	You need to comment out some lines and leave the remaining lines unchanged.
+
+
