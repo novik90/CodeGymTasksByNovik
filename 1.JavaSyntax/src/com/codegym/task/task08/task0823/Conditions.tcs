@@ -1,0 +1,23 @@
+taskKey="com.codegym.task.task08.task0823"
+
+Going national
+
+
+Write a program that reads a string from the keyboard.
+The program should change the first letter of each word to uppercase.
+Display the result on the screen.
+
+Example input:
+sam i am.
+
+Example output:
+Sam I Am.
+
+
+Requirements:
+1.	The program should display text on the screen.
+2.	The program should read a string from the keyboard.
+3.	The Solution class must have one method.
+4.	The program should change the first letter of each word to uppercase.
+
+

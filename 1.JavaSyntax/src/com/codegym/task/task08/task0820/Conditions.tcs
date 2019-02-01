@@ -1,0 +1,23 @@
+taskKey="com.codegym.task.task08.task0820"
+
+Animal set
+
+
+1. Inside the Solution class, create public static classes Cat and Dog.
+2. Implement the createCats method, which should return a set with 4 cats.
+3. Implement the createDogs method, which should return a set with 3 dogs.
+4. Implement the join method, which should return a combined set of all the animals (all the cats and dogs).
+5. Implement the removeCats method, which should remove from the set pets all cats in the set cats.
+6. Implement the printPets method, which should display all the animals in the set pets. Each animal should be on a new line.
+
+
+Requirements:
+1.	The program should display text on the screen.
+2.	There should be public static classes Cat and Dog inside the Solution class.
+3.	The Solution class&#39;s createCats() method must return a Set containing 4 cats.
+4.	The Solution class&#39;s createDogs() method must return a Set containing 3 dogs.
+5.	The Solution class&#39;s join() method should return a combined set of all the animals (all the cats and dogs).
+6.	The removeCats() method should remove from the set pets all cats in the set cats.
+7.	The printPets() method should display all the animals in the set pets. Each animal should be on a new line.
+
+

@@ -1,0 +1,20 @@
+taskKey="com.codegym.task.task08.task0822"
+
+Minimum of N numbers
+
+
+1. Use the keyboard to enter the number N.
+2. Read N integers and put them in a list: the getIntegerList method.
+3. Find the minimum among the list items: the getMinimum method.
+
+
+Requirements:
+1.	The program should display text on the screen.
+2.	The program should read values from the keyboard.
+3.	The Solution class must have only three methods.
+4.	The getIntegerList() method should read the number N from the keyboard and then return a list of N elements, which has been filled with numbers read from the keyboard.
+5.	The getMinimum() method must return the minimum among the list items.
+6.	The main() method should call the getIntegerList() method.
+7.	The main() method should call the getMinimum() method.
+
+

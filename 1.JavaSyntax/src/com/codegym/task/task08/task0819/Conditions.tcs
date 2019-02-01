@@ -1,0 +1,21 @@
+taskKey="com.codegym.task.task08.task0819"
+
+Set of cats
+
+
+1. Inside the Solution class, create a public static Cat class.
+2. Implement the createCats method. It must create a Set of cats and add 3 cats to it.
+3. In the main method, remove one cat from Set cats.
+4. Implement the printCats method. It should display all the cats that remain in the set. Each cat on a new line.
+
+
+Requirements:
+1.	The program should display text on the screen.
+2.	Inside the Solution class, there must be a public static Cat class with a default constructor.
+3.	The Solution class&#39;s createCats() method must return a Set containing 3 cats.
+4.	The Solution class&#39;s printCats() method must display all the cats in the set. Each cat on a new line.
+5.	The main() method should call the createCats() method once.
+6.	The main() method should call the printCats() method.
+7.	The main() method must remove one cat from the set of cats.
+
+
