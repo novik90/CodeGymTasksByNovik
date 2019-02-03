@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task08.task0828"
+
+Month number
+
+
+The program reads the name of the month from the keyboard and then displays its number on the screen in a phrase like: "May is month 5".
+Use collections.
+
+
+Requirements:
+1.	The program should read one value from the keyboard.
+2.	The program should display text on the screen.
+3.	The program must use collections.
+4.	The program should read from the keyboard the name of the month and display its number on the screen according to the specified template.
+
+
