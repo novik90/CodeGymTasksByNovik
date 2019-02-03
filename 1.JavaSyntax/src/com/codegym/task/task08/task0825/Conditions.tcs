@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task08.task0825"
+
+Mixed-up modifier
+
+
+Move one static modifier to make the example compile.
+
+
+Requirements:
+1.	The Solution class must have a variable called A.
+2.	The Solution class must have a variable called B.
+3.	The Solution class must have a variable called C.
+4.	The Solution class must have a variable called D.
+5.	The Solution class must have only three methods.
+6.	The class must have 4 static modifiers (variables and methods).
+
+

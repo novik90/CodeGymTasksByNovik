@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task08.task0826"
+
+Five winners
+
+
+Create an array of 20 numbers. Populate it with numbers from the keyboard. Display the five largest numbers. Each value should be on a new line.
+
+
+Requirements:
+1.	The program should display numbers on the screen.
+2.	The program should read values from the keyboard.
+3.	The Solution class must have two methods.
+4.	The sort() method should sort the array of numbers from highest to lowest.
+5.	The main() method should call the sort() method.
+6.	The program should display the five largest numbers in the array. Each value should be on a new line.
+
+

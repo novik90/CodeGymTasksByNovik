@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task08.task0824"
+
+Make a family
+
+
+1. Create a Human class with String name, boolean sex, int age, and ArrayList<Human> children fields.
+2. Create and populate objects so that we end up with: two grandfathers, two grandmothers, one father, one mother, and three children.
+3. Display all the Human objects (Hint: use the Human class's toString() method).
+
+
+Requirements:
+1.	The program should display text on the screen.
+2.	The Human class must have four fields.
+3.	The Human class must have one method.
+4.	The Solution class must have one method.
+5.	The program should create objects and fill them with data to get two grandfathers, two grandmothers, one father, one mother, and three children. Then it should display all the Human objects on the screen.
+
+
