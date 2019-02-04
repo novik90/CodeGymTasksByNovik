@@ -1,0 +1,21 @@
+taskKey="com.codegym.task.task09.task0913"
+
+Exceptions. Just exceptions.
+
+
+The method throws two exceptions that inherit Exception, and two exceptions that inherit RuntimeException:
+NullPointerException, ArithmeticException, FileNotFoundException, URISyntaxException.
+
+You need to catch NullPointerException and FileNotFoundException, but not catch
+ArithmeticException or URISyntaxException. How do you do that?
+
+
+Requirements:
+1.	The main method must call method1.
+2.	The main method must catch the NullPointerException exception.
+3.	The main method must catch the FileNotFoundException exception.
+4.	The main method must not catch the ArithmeticException exception.
+5.	The main method must not catch the URISyntaxException exception.
+6.	Don&#39;t change the method1 method.
+
+
