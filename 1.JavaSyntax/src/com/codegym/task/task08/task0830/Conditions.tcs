@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task08.task0830"
+
+Task about algorithms
+
+
+Task: Enter 20 words from the keyboard and display them in alphabetical order. Each word should be on a new line.
+
+
+Requirements:
+1.	The program should display text on the screen.
+2.	The program should read values from the keyboard.
+3.	The Solution class must have three methods.
+4.	The main() method should call the sort() method.
+5.	The sort () method should call the isGreaterThan() method.
+6.	The displayed words should be sorted alphabetically.
+
+
