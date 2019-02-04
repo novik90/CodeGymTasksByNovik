@@ -1,0 +1,28 @@
+taskKey="com.codegym.task.task08.task0829"
+
+Software update
+
+
+Task: The program determines which family (last name) lives in the house with the specified number.
+New task: The program should work with cities rather than house numbers:
+Example input:
+Chicago
+Capone
+New York City
+Rockefeller
+Seattle
+Gates
+
+Seattle
+
+Example output:
+Gates
+
+
+Requirements:
+1.	The program should display text on the screen.
+2.	The program should read values from the keyboard.
+3.	The Solution class must have one method.
+4.	The program should display the family&#39;s last name based on the entered city.
+
+
