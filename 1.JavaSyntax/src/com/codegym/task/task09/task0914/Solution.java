@@ -7,16 +7,11 @@ Catching a group of exceptions
 
 public class Solution {
     public static void main(String[] args) throws Exception {
-        //write your code here
-
         try {
             method1();
         } catch (Exception1 e) {
             System.out.println(e);
         }
-
-        //write your code here
-
     }
 
     public static void method1() throws Exception1, Exception2, Exception3 {
