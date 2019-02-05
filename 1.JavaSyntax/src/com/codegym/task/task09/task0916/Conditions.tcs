@@ -1,0 +1,19 @@
+taskKey="com.codegym.task.task09.task0916"
+
+Catching checked exceptions
+
+
+In the handleExceptions method, handle all checked exceptions.
+You need to display the checked exception that occurs.
+You can only use one try-catch block.
+
+
+Requirements:
+1.	The handleExceptions method must call method1.
+2.	The handleExceptions method must call method2.
+3.	The handleExceptions method must call method3.
+4.	The handleExceptions method must use only one try-catch block.
+5.	The handleExceptions method should catch and display all the exceptions that occur.
+6.	The program should display text.
+
+
