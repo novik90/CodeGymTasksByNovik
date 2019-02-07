@@ -1,0 +1,19 @@
+taskKey="com.codegym.task.task09.task0927"
+
+Ten cats
+
+
+There is a Cat class with a String variable name.
+Create a Map<String, Cat> and add 10 cats represented by (name, Cat) pairs.
+Get a Set of all cats from the Map and display it on the screen.
+
+
+Requirements:
+1.	The program must not read data from the keyboard.
+2.	The createMap method must create a new HashMap&lt;String, Cat&gt; object.
+3.	The createMap method must add 10 cats to the map, represented by (name, Cat) pairs.
+4.	The createMap method must return the created map.
+5.	The convertMapToSet method must create and return the set of cats retrieved from the passed map.
+6.	The program should display all the cats in the set.
+
+
