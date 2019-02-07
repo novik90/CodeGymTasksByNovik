@@ -1,0 +1,38 @@
+taskKey="com.codegym.task.task09.task0930"
+
+Task about algorithms
+
+
+Task: The user enters a list of words (and numbers) from the keyboard. The words are displayed in ascending order, the numbers in descending order.
+
+Example input:
+Cherry
+1
+Bob
+3
+Apple
+22
+0
+Watermelon
+
+Example output:
+Apple
+22
+Bob
+3
+Cherry
+1
+0
+Watermelon
+
+
+Requirements:
+1.	The program must read data from the keyboard.
+2.	The program should display data on the screen.
+3.	The displayed words should be sorted in ascending order (using the provided isGreaterThan method).
+4.	The displayed numbers must be sorted in descending order.
+5.	The main method should use the sort method.
+6.	The sort() method should call the isGreaterThan() method.
+7.	The sort() method should call the isNumber() method.
+
+
