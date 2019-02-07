@@ -3,7 +3,7 @@ package com.codegym.task.task09.task0921;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/* 
+/*
 Method in a try-catch
 
 */
