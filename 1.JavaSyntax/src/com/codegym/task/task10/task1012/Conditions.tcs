@@ -1,0 +1,23 @@
+taskKey="com.codegym.task.task10.task1012"
+
+Number of letters
+
+
+Enter 10 strings from the keyboard and count the number of different letters in them (for the 26 lowercase letters of the English alphabet). Display the results on the screen in alphabetical order.
+Example output:
+a 5
+b 8
+c 3
+d 7
+e 0
+…
+z 9
+
+
+Requirements:
+1.	The program must read data from the keyboard 10 times.
+2.	The program should display text on the screen.
+3.	The displayed text should contain 26 lines.
+4.	Each line of output should contain a letter of the English alphabet, a space, and the number of times the letter was found in the entered lines.
+
+
