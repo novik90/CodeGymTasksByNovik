@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task10.task1013"
+
+Human class constructors
+
+
+Write a Human class with 6 fields. Think up and implement 10 different constructors for it. Each constructor should make sense.
+
+
+Requirements:
+1.	The program must not read data from the keyboard.
+2.	There should be 6 fields in the Human class.
+3.	All of the Human class&#39;s fields must be private.
+4.	There should be 10 constructors in the Human class.
+5.	All of the Human class&#39;s constructors must be public.
+
+

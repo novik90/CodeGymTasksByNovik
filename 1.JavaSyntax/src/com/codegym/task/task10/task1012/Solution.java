@@ -35,11 +35,11 @@ public class Solution {
         }
 
 
-        for (int i = 0; i < list.size(); i++) {
-            char[] s = list.get(i).toCharArray();
-            for (int j = 0; j < s.length; j++) {
-                if (alphabet.contains(s[j])) {
-                    number.set(alphabet.indexOf(s[j]), number.get(alphabet.indexOf(s[j])) + 1);
+        for (String s1 : list) {
+            char[] s = s1.toCharArray();
+            for (char c : s) {
+                if (alphabet.contains(c)) {
+                    number.set(alphabet.indexOf(c), number.get(alphabet.indexOf(c)) + 1);
                 }
             }
         }
