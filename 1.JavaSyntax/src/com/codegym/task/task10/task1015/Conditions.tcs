@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task10.task1015"
+
+Array of string lists
+
+
+Create an array whose elements are lists of strings. Fill the array with any data and display it on the screen.
+
+
+Requirements:
+1.	The createList method must declare and initialize an array with ArrayList&lt;String&gt; elements.
+2.	The createList method must return the created array.
+3.	The createList method must add elements (string lists) to the array. The lists must not be empty.
+4.	The program should display data on the screen.
+5.	The main method must call the createList method.
+6.	The main method must call the printList method.
+
+
