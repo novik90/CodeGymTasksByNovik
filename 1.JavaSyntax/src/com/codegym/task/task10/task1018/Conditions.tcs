@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task10.task1018"
+
+Corrections are needed
+
+
+Task: The program demonstrates how a HashMap works: read a set of pairs (a number and string) from the keyboard, put them in a HashMap, and then displays the contents of the HashMap.
+
+
+Requirements:
+1.	The program must read data from the keyboard.
+2.	The program should display text on the screen.
+3.	The Solution class must have three variables.
+4.	The program should fill the HashMap with 10 pairs read from the keyboard.
+5.	The program should display the contents of the HashMap. Each value should be on a new line.
+
+
