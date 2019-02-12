@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task10.task1017"
+
+Safe removal from a list
+
+
+Create a list of integers. Enter 20 integers from the keyboard. Create a method to safely remove numbers from the list:
+int safeGetElement(ArrayList <Integer> list, int index, int defaultValue)
+The method must return a list item based on its index. If an exception occurs while retrieving an element, it must be caught, and the method should return defaultValue.
+
+
+Requirements:
+1.	The program should read 20 numbers from the keyboard.
+2.	The program should display data on the screen.
+3.	The safeGetElement method must return a list item based on its index, unless exceptions occur in the method.
+4.	The safeGetElement method must return defaultValue if exceptions occur in the method. Catch exceptions.
+5.	The safeGetElement method must not throw exceptions.
+
+

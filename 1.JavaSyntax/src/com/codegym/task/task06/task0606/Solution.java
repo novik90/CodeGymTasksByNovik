@@ -18,7 +18,7 @@ public class Solution {
         int num = scanner.nextInt();
         int numLenght = String.valueOf(num).length();
         int count = 10;
-        int temp = 0;
+        int temp;
 
         for (int i = 0; i < numLenght; i++) {
             temp = Integer.parseInt(String.valueOf(num%count).substring(0, 1));
