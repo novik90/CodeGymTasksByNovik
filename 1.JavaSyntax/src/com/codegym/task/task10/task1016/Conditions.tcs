@@ -1,0 +1,20 @@
+taskKey="com.codegym.task.task10.task1016"
+
+Identical words in a list
+
+
+Read a list of 20 words from the keyboard. You need to count how many times each word appears in the list.
+The result should be represented as a Map<String, Integer>, where the key is a unique word,
+and the value is the number of times the word appears in the list.
+Display the contents of the map.
+The case (uppercase/lowercase) affects the results.
+
+
+Requirements:
+1.	The countWords method must declare and initialize a HashMap&lt;String, Integer&gt;.
+2.	The countWords method must return the created map.
+3.	The countWords method should add keys that correspond to unique words, and values that correspond to how many times those words occur.
+4.	The program should display the resulting map.
+5.	The main method must call the countWords method.
+
+
