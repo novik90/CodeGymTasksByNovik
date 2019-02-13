@@ -1,0 +1,19 @@
+taskKey="com.codegym.task.task11.task1119"
+
+Correct inheritance chain: part 4
+
+
+Create a proper "inheritance chain" for the following classes: House, Cat, Dog, and Car.
+
+
+Requirements:
+1.	The Solution class must contain a public House class.
+2.	The Solution class must contain a public Cat class.
+3.	The Solution class must contain a public Dog class.
+4.	The Solution class must contain a public Car class.
+5.	The House class must not inherit our other classes.
+6.	The Cat class must not inherit of our other classes.
+7.	The Dog class must not inherit our other classes.
+8.	The Car class must not inherit our other classes.
+
+
