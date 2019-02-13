@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task11.task1109"
+
+Like cats and dogs
+
+
+Make all of the internal variables of the Cat and Dog classes private. Also, make all of the methods private, except those that allow these two classes to interact with each other.
+
+
+Requirements:
+1.	The Cat class&#39;s variables must be private.
+2.	The Dog class&#39;s variables must be private.
+3.	The Cat class&#39;s methods must be private.
+4.	The Dog class&#39;s methods must be private.
+5.	Methods that let the Cat and Dog classes interact with each other must be public.
+
+
