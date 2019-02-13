@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task12.task1201"
+
+Whales and cows
+
+
+Override the getName method in the Whale class, so that the program displays:
+I'm not a cow. I'm a whale.
+
+
+Requirements:
+1.	The program should display text on the screen.
+2.	The Whale class must inherit the Cow class.
+3.	The Whale class must override the getName() method.
+4.	The main() method must call the Cow object&#39;s getName() method.
+5.	Override the getName method in the Whale class so that the program displays: &quot;I&#39;m not a cow. I&#39;m a whale.&quot;
+6.	The main() method should display the result of calling the getName() method.
+
+
