@@ -1,0 +1,23 @@
+taskKey="com.codegym.task.task12.task1225"
+
+Visitors
+
+
+Write a method that will determine the type of object passed to it.
+The program should display one of the following:
+Cat, Tiger, Lion, Bull, Cow or Animal.
+Note: try to determine the type of animal as accurately as possible.
+
+
+Requirements:
+1.	The Solution class must have Cat, Tiger, Lion, Bull, Cow, and Animal classes.
+2.	The Solution class must have a String getObjectType(Object o) method.
+3.	The getObjectType() method must return &quot;Cat&quot; if a Cat object is passed.
+4.	The getObjectType() method must return &quot;Tiger&quot; if a Tiger object is passed.
+5.	The getObjectType() method must return &quot;Lion&quot; if a Lion object is passed.
+6.	The getObjectType() method must return &quot;Bull&quot; if a Bull object is passed.
+7.	The getObjectType() method must return &quot;Cow&quot; if a Cow object is passed.
+8.	The getObjectType() method must return &quot;Animal&quot; if an Animal object is passed.
+9.	The program should display the result of calling the getObjectType() method.
+
+
