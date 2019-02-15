@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task12.task1231"
+
+Useless abstractions
+
+
+You need to place the abstract keyword in the right places so that the program will compile.
+Add abstract where needed and delete it where it isn't needed.
+
+
+Requirements:
+1.	The Pegasus class must implement the CanFly interface.
+2.	The Pegasus class must inherit the Horse class.
+3.	The SwimmingPegasus class must inherit the Pegasus class.
+4.	You should be able to create a Horse object.
+5.	You should be able to create a Pegasus object.
+6.	The SwimmingPegasus class&#39;s swim() method must not be implemented.
+
+
