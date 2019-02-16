@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task13.task1306"
+
+Buggy initializeIdAndName
+
+
+1. Think about what is wrong with the program.
+2. Implement the initializeIdAndName method in the User class.
+3. The User class's initializeIdAndName method must return a User.
+4. Correct the program so it compiles and runs.
+
+
+Requirements:
+1.	The DBObject interface must declare, but not implement, the initializeIdAndName method.
+2.	Implement the initializeIdAndName method in the User class.
+3.	The User class&#39;s initializeIdAndName method must return a User.
+4.	The initializeIdAndName method must set the User object&#39;s id and name fields equal to the passed arguments and then return the object.
+
+
