@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task13.task1303"
+
+Don't mix beer with cola
+
+
+Implement the Drink interface in the Beer and Cola classes.
+
+
+Requirements:
+1.	The Beer class must implement the Drink interface.
+2.	The Cola class must implement the Drink interface.
+3.	The Beer class must implement all of the Drink interface&#39;s methods.
+4.	The Cola class must implement all of the Drink interface&#39;s methods.
+
+
