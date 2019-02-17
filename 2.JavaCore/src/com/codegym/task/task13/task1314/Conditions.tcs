@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task13.task1314"
+
+A big fox is still a fox
+
+
+1. Fix the BigFox class so that the program compiles.
+
+
+Requirements:
+1.	The Fox class must implement the Animal interface.
+2.	The Fox class must only implement one method (getName).
+3.	The Animal interface must declare a getColor method.
+4.	The BigFox class must inherit the Fox class.
+
+

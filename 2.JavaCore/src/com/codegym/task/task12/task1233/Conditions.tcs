@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task12.task1233"
+
+The isomorphs are coming
+
+
+Write a method that returns the minimum of an array and its position (index).
+
+
+Requirements:
+1.	The Solution class must have a Pair class.
+2.	The Solution class must have two methods.
+3.	The Solution class must have a getMinimumAndIndex() method.
+4.	The getMinimumAndIndex() method must return the minimum of the array and its position (index).
+
+

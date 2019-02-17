@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task13.task1312"
+
+Code doesn't fix itself
+
+
+Fix the code so that the program runs and displays "I translate from Russian".
+Don't change the main method!
+
+
+Requirements:
+1.	The program should display &quot;I translate from Russian&quot;.
+2.	The translate method should return &quot;I translate from Russian&quot;.
+3.	The program must run without errors.
+4.	The main method must display the result of calling the Translator object&#39;s translate method.
+
+

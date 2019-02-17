@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task13.task1305"
+
+Four mistakes
+
+
+Correct the program's 4 bugs so that it compiles.
+
+
+Requirements:
+1.	The variables declared in the interface must have the widest access level (public).
+2.	You can only extend a class. You implement interfaces using the implements keyword.
+3.	The Hobby class must be declared using the static modifier.
+4.	You don&#39;t need to create a Dream object to access the HOBBY variable.
+5.	Do not change interface declarations.
+
+
