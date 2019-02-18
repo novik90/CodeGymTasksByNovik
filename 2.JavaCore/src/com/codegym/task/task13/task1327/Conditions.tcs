@@ -1,0 +1,22 @@
+taskKey="com.codegym.task.task13.task1327"
+
+Turnip
+
+
+The Gigantic Turnip:
+1. Make the Person class implement the TurnipItem interface.
+2. Implement the pull(Person person) method in the Person class so that it displays a phrase like '<name> behind <person>'.
+Example:
+Grandma behind Grandpa
+Grandpa behind Turnip
+3. Fix the bug in the logic of the loop in the TurnipStory class's tell method.
+4. Run the main method and enjoy the story!
+
+
+Requirements:
+1.	The Person class must implement the TurnipItem interface.
+2.	The Person class must have a pull method with one Person parameter.
+3.	The Person class&#39;s pull method must display a phrase like &#39;&lt;name&gt; behind &lt;person&gt;&#39;. For example: Grandma behind Grandpa.
+4.	The main method should display a condensed version of The Gigantic Turnip on the screen.
+
+
