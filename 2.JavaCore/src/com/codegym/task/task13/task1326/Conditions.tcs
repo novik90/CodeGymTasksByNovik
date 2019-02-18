@@ -1,0 +1,32 @@
+taskKey="com.codegym.task.task13.task1326"
+
+Sorting even numbers from a file
+
+
+1. Read a file name from the console.
+2. Read a set of numbers from the file.
+3. Display only the even numbers, sorted in ascending order.
+Example input:
+5
+8
+-2
+11
+3
+-5
+2
+10
+Example output:
+-2
+2
+8
+10
+
+
+Requirements:
+1.	The program must read data from the console.
+2.	The program must create a FileInputStream using the line read from the console.
+3.	The program should display data on the screen.
+4.	The program should display all of the even numbers read from the file, sorted in ascending order.
+5.	The program must close the input stream used to read the file (FileInputStream).
+
+
