@@ -1,0 +1,29 @@
+taskKey="com.codegym.task.task13.task1328"
+
+Robot wars
+
+
+1. Familiarize yourself with the code.
+2. https://javarush.ru/info-jr-old/images/00/00/07/2014/08/12/50f3e37f94.png
+3. Accept your fate and keep trying to understand the code.
+4. ...
+5. Rejoice that you've figured it out.
+
+6. Adapt the code to the following new architecture and add new logic:
+6.1. Make the AbstractRobot class abstract. Then move the attack and defend logic from the Robot class to the AbstractRobot class.
+6.2. Edit the Robot class to utilize the AbstractRobot class.
+6.3. Extend the BodyPart class with a new body part: BodyPart.CHEST.
+6.4. Add the new body part to the implementation of the CanAttack and CanDefend interfaces (in the AbstractRobot class).
+
+7. https://javarush.ru/info-jr-old/images/00/00/07/2014/08/12/3b9c65580b.png
+
+
+Requirements:
+1.	The AbstractRobot class must be abstract.
+2.	The AbstractRobot class must implement the CanAttack and CanDefend interfaces.
+3.	The Robot class must inherit the AbstractRobot class.
+4.	The logic defining the how a Robot behaves must be in the AbstractRobot class.
+5.	The BodyPart class must have and initialize a final static BodyPart variable called CHEST.
+6.	The new body part must be added to the logic for the attack and defend methods in the AbstractRobot class.
+
+
