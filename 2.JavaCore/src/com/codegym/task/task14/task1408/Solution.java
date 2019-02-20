@@ -15,10 +15,23 @@ public class Solution {
 
         static Hen getHen(String continent) {
             Hen hen = null;
-            //write your code here
+
+            switch (continent) {
+                case "Africa":
+                    hen = new AfricanHen();
+                    break;
+                case "Asia":
+                    hen = new AsianHen();
+                    break;
+                case "Europe":
+                    hen = new EuropeanHen();
+                    break;
+                default:
+                    hen = new NorthAmericanHen();
+            }
+
             return hen;
         }
     }
-
 
 }
