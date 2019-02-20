@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task14.task1406"
+
+No mistakes
+
+
+Set obj equal to an object that allows the main method to run error-free.
+
+
+Requirements:
+1.	The GrayMouse class must inherit the Mouse class.
+2.	The Jerry class must inherit the GrayMouse class.
+3.	The variable obj should reference an object that is simultaneously a Mouse, a GrayMouse, and a Jerry.
+4.	The main method must call the printClasses method.
+
+
