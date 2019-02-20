@@ -1,0 +1,20 @@
+taskKey="com.codegym.task.task14.task1407"
+
+Player and Dancer
+
+
+1. Think about what the program is doing.
+2. Change the haveFun method so that it calls:
+- the play method if the person is a Player.
+- the dance method if the person is a Dancer.
+
+
+Requirements:
+1.	The Player class must implement the Person interface.
+2.	The Dancer class must implement the Person interface.
+3.	The haveFun method should call the play method if the passed object is a Player.
+4.	The haveFun method should call the dance method if the passed object is a Dancer.
+5.	The main method must read data from the keyboard.
+6.	The main method should stop reading data from the keyboard if the input string is &quot;exit&quot;.
+
+
