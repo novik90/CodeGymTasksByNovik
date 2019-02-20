@@ -1,0 +1,19 @@
+taskKey="com.codegym.task.task14.task1404"
+
+Cats
+
+
+1. Read strings (parameters) from the console until the user enters an empty string (Enter).
+2. Each parameter corresponds to the name of a cat.
+For each parameter:
+3. Create a Cat object equal to the cat from getCatByKey(String parameter).
+4. Display the result of cat.toString().
+
+
+Requirements:
+1.	The program must read data from the keyboard.
+2.	The program should stop reading data after an empty string is entered.
+3.	The program should display a description of each cat (cat.toString).
+4.	The program must use the getCatByKey method to create a Cat object for each cat name entered (each string read from the keyboard).
+
+
