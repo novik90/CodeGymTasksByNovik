@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task14.task1412"
+
+Implement the printMainInfo method
+
+
+1. Write an implementation of the printMainInfo method:
+1.1. If a Drawable object is passed to the method, call the draw method on the object.
+1.2. If a Movable object is passed to the method, call the move method on the object.
+
+
+Requirements:
+1.	The Solution class must implement a printMainInfo method with one Object parameter.
+2.	The printMainInfo method must be static.
+3.	The printMainInfo method must have the widest level of access (public).
+4.	The printMainInfo method must call the draw method on the passed object if the object implements the Drawable interface.
+5.	The printMainInfo method must call the move method on the passed object if the object implements the Movable interface.
+
+
