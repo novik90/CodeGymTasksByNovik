@@ -1,0 +1,23 @@
+taskKey="com.codegym.task.task14.task1415"
+
+Janitorial services
+
+
+1. Implement the cleanAllApartments method.
+For each object in apartments:
+2. For one-bedroom apartments (OneRoomApt), call the clean1Room method.
+i.e. if an OneRoomApt object is passed, then call its clean1Room method.
+3. For two-bedroom apartments (TwoRoomApt), call the clean2Rooms method
+i.e. if an TwoRoomApt object is passed, then call its clean2Rooms method.
+4. For three-bedroom apartments (ThreeRoomApt), call the clean3Rooms method
+i.e. if an ThreeRoomApt object is passed, then call its clean3Rooms method.
+
+
+Requirements:
+1.	The cleanAllApartments method must take a list of apartments as an argument.
+2.	For all one-bedroom apartments (OneRoomApt) in the list, the cleanAllApartments method must call the clean1Room method.
+3.	For all two-bedroom apartments (TwoRoomApt) in the list, the cleanAllApartments method must call the clean2Rooms method.
+4.	For all three-bedroom apartments (ThreeRoomApt) in the list, the cleanAllApartments method must call the clean3Rooms method.
+5.	The OneRoomApt, TwoRoomApt, and ThreeRoomApt classes should support (implement) the Apartment interface.
+
+
