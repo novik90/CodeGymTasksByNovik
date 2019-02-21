@@ -1,0 +1,31 @@
+taskKey="com.codegym.task.task14.task1411"
+
+User, loser, coder and programmer
+
+
+1. Enter a few strings (keys) from the keyboard [in a loop].
+The following strings (keys) are allowed: "user", "loser", "coder", "programmer".
+Stop reading in strings after reading in any string that does not match one of the above.
+
+2. For each entered string:
+2.1. Create the appropriate object [see Person.java], e.g. create a User object for the string "user".
+2.2. Pass this object to the doWork method.
+
+3. Write an implementation of the doWork method, which:
+3.1. Calls the live() method on the passed object if person is a User.
+3.2. Calls the doNothing() method if person is a Loser.
+3.3. Calls the writeCode() method if person is a Coder.
+3.4. Calls the enjoy() method if person is a Programmer.
+
+
+Requirements:
+1.	The main method must read strings from the keyboard.
+2.	The main method should stop reading strings from the keyboard as soon as the entered string does not match one of the allowed strings (&quot;user&quot;, &quot;loser&quot;, &quot;coder&quot;, &quot;programmer&quot;).
+3.	For each correctly entered string (&quot;user&quot;, &quot;loser&quot;, &quot;coder&quot;, &quot;programmer&quot;), call the doWork method with the appropriate Person object as the argument.
+4.	The Solution class must implement a doWork method with one Person parameter.
+5.	The doWork method should call the live() method on the passed object if it is a User.
+6.	The doWork method should call the doNothing() method on the passed object if it is a Loser.
+7.	The doWork method should call the writeCode() method on the passed object if it is a Coder.
+8.	The doWork method should call the enjoy() method on the passed object if it is a Programmer.
+
+
