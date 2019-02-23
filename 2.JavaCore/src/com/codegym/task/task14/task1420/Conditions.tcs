@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task14.task1420"
+
+GCD
+
+
+Greatest common divisor (GCD).
+Enter 2 positive integers from the keyboard.
+Display the greatest common divisor.
+
+
+Requirements:
+1.	The program should read 2 lines from the keyboard.
+2.	If the entered lines can&#39;t be converted to positive integers, throw an exception.
+3.	The program should display data on the screen.
+4.	The program should display the greatest common divisor (GCD) of the numbers read from the keyboard and then terminate successfully.
+
+
