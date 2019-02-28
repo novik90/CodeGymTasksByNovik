@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task15.task1509"
+
+Man or woman?
+
+
+1. Change the printName method so that it runs for both man and woman.
+2. The printName method should have a single implementation.
+
+
+Requirements:
+1.	The Solution class should only implement a single printName method.
+2.	The printName method must have one Human parameter.
+3.	The Man class must be a descendant of the Human class.
+4.	The Woman class must be a descendant of the Human class.
+
+
