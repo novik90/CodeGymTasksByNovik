@@ -1,0 +1,19 @@
+taskKey="com.codegym.task.task15.task1505"
+
+OOP: Fix inheritance problems
+
+
+Correct the containsBones method and all associated logic so that:
+1. The program's behavior remains the same.
+2. The containsBones method must return an Object and the value "Yes" instead of true, and "No" instead of false
+
+
+Requirements:
+1.	The BodyPart class&#39;s containsBones method must return an Object.
+2.	The Finger class must be a descendant of the BodyPart class.
+3.	The Finger class&#39;s containsBones method must return an Object.
+4.	The BodyPart class&#39;s containsBones method should return &quot;Yes&quot;.
+5.	The Finger class&#39;s containsBones method should return &quot;Yes&quot; if the BodyPart class&#39;s containsBones method returns &quot;Yes&quot; and the isArtificial flag is false. If this condition is not satisfied, then return &quot;No&quot;.
+6.	The BodyPart class&#39;s toString method should return a string formatted as follows &quot;&lt;name&gt; (name of the body part) contains bones&quot; if the containsBones method returns &quot;Yes&quot; for the body part. If it returns &quot;No&quot;, then the string should be formatted as &quot;&lt;name&gt; (name of the body part) does not contain bones&quot;.
+
+
