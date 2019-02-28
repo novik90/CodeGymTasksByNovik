@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task15.task1510"
+
+Be gone, all that is unnecessary!
+
+
+In the main() method, remove the superfluous lines for which the add() method is not implemented.
+
+
+Requirements:
+1.	There must be three add() methods implemented in the Solution class.
+2.	You need to remove the extra lines in the main() method.
+3.	All of the Solution class&#39;s methods must be static.
+4.	All of the Solution class&#39;s methods must be public.
+
+
