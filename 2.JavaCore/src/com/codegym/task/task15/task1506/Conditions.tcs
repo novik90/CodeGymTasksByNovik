@@ -1,0 +1,22 @@
+taskKey="com.codegym.task.task15.task1506"
+
+Something superfluous
+
+
+1. The program should display the following:
+This is a double
+This is an Object
+This is a double
+This is an Integer
+This is a double
+
+2. Remove all unnecessary methods
+
+
+Requirements:
+1.	The Solution class must retain a print method with one Integer parameter.
+2.	The Solution class must retain a print method with one Object parameter.
+3.	The Solution class must retain a print method with one double parameter.
+4.	The screen output must match the task conditions.
+
+
