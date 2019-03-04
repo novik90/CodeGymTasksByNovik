@@ -1,0 +1,21 @@
+taskKey="com.codegym.task.task15.task1520"
+
+Brain training
+
+
+Find the error in the logic: Duck should correctly implement the CanMove interface.
+Fix the bug.
+The output should be:
+Flying
+Moving
+
+
+Requirements:
+1.	The screen output must match the task conditions.
+2.	The Duck class must implement the doAnotherAction method.
+3.	The Duck class&#39;s doAnotherAction() method should display &quot;moving&quot;.
+4.	The Util class&#39;s move method should call the doAnotherAction method on the object passed to it.
+5.	The Duck class must implement the CanMove interface.
+6.	The Duck class must implement the CanFly interface.
+
+
