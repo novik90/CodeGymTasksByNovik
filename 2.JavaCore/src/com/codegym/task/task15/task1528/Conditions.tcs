@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task15.task1528"
+
+OOP: The Euro is money too
+
+
+Correct the Euro class to avoid a StackOverflowError.
+
+
+Requirements:
+1.	The Euro class must be a descendant of the Money class.
+2.	The Euro class must implement the getAmount method.
+3.	The Euro class&#39;s getAmount method must return the value of the field amount.
+4.	There shouldn&#39;t be any exceptions or errors while the program is running.
+
+
