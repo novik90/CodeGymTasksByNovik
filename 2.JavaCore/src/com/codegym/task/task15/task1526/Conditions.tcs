@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task15.task1526"
+
+Debug, debug, and again debug
+
+
+The program displays 0 9, but it should display 6 9. Find (one!) mistake and correct.
+Use the debugger. Set breakpoints (Ctrl+F8), and then go to Run -> Debug.
+F9 will execute code until the next breakpoint
+F8 will step to the next line of code
+
+
+Requirements:
+1.	The program should display data on the screen.
+2.	The screen output must match the task conditions.
+3.	The A class&#39;s initialize method must have the strictest access modifier.
+4.	The program must not read data from the keyboard.
+
+
