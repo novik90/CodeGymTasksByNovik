@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task16.task1603"
+
+A list and some threads
+
+
+In the main method, add 5 threads to the static list. Each thread must be a new Thread object that works with its own SpecialThread object.
+
+
+Requirements:
+1.	In the main method, create 5 SpecialThread objects.
+2.	In the main method, create 5 Thread objects.
+3.	Add 5 different threads to list.
+4.	Each thread in list should work with its own SpecialThread object.
+5.	The SpecialThread class&#39;s run method should display &quot;This is the run method inside SpecialThread&quot;.
+
+
