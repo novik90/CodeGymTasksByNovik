@@ -1,0 +1,19 @@
+taskKey="com.codegym.task.task16.task1602"
+
+My second thread
+
+
+1. Create a public static TestThread class that inherits the Thread class.
+2. Create a static block inside TestThread, which will display "This is the static block inside TestThread".
+3. The run method should display "This is the run method".
+
+
+Requirements:
+1.	Add a public static class called TestThread to the Solution class.
+2.	The TestThread class must inherit the Thread class.
+3.	The TestThread class should not implement any additional interfaces.
+4.	Create a static block inside TestThread, which will display &quot;This is the static block inside TestThread&quot;.
+5.	The TestThread class&#39;s run method should display &quot;This is the run method&quot;.
+6.	Don&#39;t change the main method.
+
+
