@@ -1,0 +1,26 @@
+taskKey="com.codegym.task.task16.task1606"
+
+join: at the right time in the right place
+
+
+Think where and on what object you need to call the join method to have the result displayed
+first for firstThread and then for secondThread.
+Call the join method in the right place.
+Example output:
+firstThread : String 1
+firstThread : String 2
+...
+firstThread : String 19
+firstThread : String 20
+secondThread : String 1
+...
+secondThread : String 20
+
+
+Requirements:
+1.	The main method must call the join method on firstThread.
+2.	The main method should not call the join method on secondThread.
+3.	The main method should not call System.out.println or System.out.print().
+4.	The program&#39;s output must match the example in the task.
+
+
