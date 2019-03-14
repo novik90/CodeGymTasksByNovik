@@ -1,0 +1,19 @@
+taskKey="com.codegym.task.task16.task1611"
+
+Clocks
+
+
+1. Figure out what the program does.
+2. Implement the printTickTock method:
+2.1. In the first half of each second, the following phrase should be displayed: Tick
+2.2. In the second half of each second, the following phrase should be displayed: Tock
+
+
+Requirements:
+1.	The printTickTock method should display two lines: &quot;Tick&quot; and &quot;Tock&quot;.
+2.	The printTickTock method should run for about a second.
+3.	The printTickTock method should sleep twice for half a second. Use Thread.sleep(500).
+4.	There should be no messages in the console after &quot;Double-check&quot;.
+5.	The main method must create a Clock object.
+
+
