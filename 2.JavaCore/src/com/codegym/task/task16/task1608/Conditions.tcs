@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task16.task1608"
+
+Promotion during political debates
+
+
+1. Figure out what the program does.
+2. We need to be sure that Chump talks the most during the political debate.
+3. Think about what method you can call on the chump object to make Chump talk until all the available time has been taken.
+
+
+Requirements:
+1.	Call the join method on the necessary object.
+2.	The Politician class&#39;s toString method should display how many times the politician spoke, for example: &quot;Chump spoke 35 times&quot;.
+3.	The program should create 3 Politician objects.
+4.	Don&#39;t change the methods that are responsible for screen output.
+5.	The program&#39;s output should indicate that Chump spoke the most during the political debate.
+
+
