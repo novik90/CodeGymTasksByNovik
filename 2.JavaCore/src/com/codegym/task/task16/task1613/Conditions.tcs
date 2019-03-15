@@ -1,0 +1,22 @@
+taskKey="com.codegym.task.task16.task1613"
+
+Big Ben
+
+
+1. Figure out what the program does.
+2. Implement the printTime method so that the time is given every second, beginning with the time specified in the constructor.
+Example:
+In London, the time is now 23:59:58!
+In London, the time is now 23:59:59!
+It's currently midnight in London!
+In London, the time is now 00:00:01!
+
+
+Requirements:
+1.	The printTime method should run for about a second.
+2.	The printTime method should increase (increment) the number of seconds stored in the variable seconds.
+3.	After incrementing the time, the second count cannot be greater than 59. The number of minutes should increase.
+4.	After incrementing the time, the minute count cannot be greater than 59. The number of hours should increase.
+5.	After incrementing the time, the hour count cannot be greater than 23.
+
+
